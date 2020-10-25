@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    font-family:sans-serif;
+}
+ul{
+  list-style-type:none;
+  margin:0;
+  background-color:blue;
+  overflow:hidden;
+}
+ul li{
+   float:left;
+   padding:10px;
+  
+  
+}
+ul li a{
+   display:block;
+   text-decoration:none;
+   color:white;
+
+}
+  
+ul li:hover{
+   background-color:orange;
+}
+.action{
+    margin-right:70px;
+}

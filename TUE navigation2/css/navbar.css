@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    font-family:sans-serif;
+}
+header{
+    height:30vh;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    line-height:30vh;
+    padding:10px;
+    font-size:30px;
+}
+ul{
+    list-style-type:none;
+    background-color:lightskyblue;
+    padding:10px;
+    margin:0px;
+}
+ul li{
+    display:inline;
+    padding:10px;
+    color:white;
+}
+ul li:hover{
+    background-color:pink;
+}
+ul li a{
+    text-decoration:none;
+}
